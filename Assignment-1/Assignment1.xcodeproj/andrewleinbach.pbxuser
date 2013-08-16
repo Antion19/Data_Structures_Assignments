@@ -1,0 +1,144 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 28B3504216ACEB41000DC739 /* Assignment1 */;
+		activeTarget = 8DD76FA90486AB0100D96B5E /* Assignment1 */;
+		codeSenseManager = 28B3504D16ACEB55000DC739 /* Code sense */;
+		executables = (
+			28B3504216ACEB41000DC739 /* Assignment1 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					323,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 381289261;
+			PBXWorkspaceStateSaveDate = 381289261;
+		};
+		perUserProjectItems = {
+			281A866F16BA005C00355FC9 /* PBXTextBookmark */ = 281A866F16BA005C00355FC9 /* PBXTextBookmark */;
+			281A868C16BA0A1900355FC9 /* PBXTextBookmark */ = 281A868C16BA0A1900355FC9 /* PBXTextBookmark */;
+			28B3504516ACEB55000DC739 /* PBXTextBookmark */ = 28B3504516ACEB55000DC739 /* PBXTextBookmark */;
+			28B3504716ACEB55000DC739 /* PBXTextBookmark */ = 28B3504716ACEB55000DC739 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 28B3504C16ACEB55000DC739 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {501, 3430}}";
+			sepNavSelRange = "{333, 0}";
+			sepNavVisRange = "{3795, 381}";
+		};
+	};
+	281A866F16BA005C00355FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.c */;
+		name = "main.c: 12";
+		rLen = 0;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 746;
+		vrLoc = 0;
+	};
+	281A868C16BA0A1900355FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.c */;
+		name = "main.c: 19";
+		rLen = 0;
+		rLoc = 333;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 3795;
+	};
+	28B3504216ACEB41000DC739 /* Assignment1 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Assignment1;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	28B3504516ACEB55000DC739 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6A0FF2C0290799A04C91782 /* Assignment1.1 */;
+		name = "Assignment1.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 924;
+		vrLoc = 0;
+	};
+	28B3504716ACEB55000DC739 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6A0FF2C0290799A04C91782 /* Assignment1.1 */;
+		name = "Assignment1.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 924;
+		vrLoc = 0;
+	};
+	28B3504C16ACEB55000DC739 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	28B3504D16ACEB55000DC739 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DD76FA90486AB0100D96B5E /* Assignment1 */ = {
+		activeExec = 0;
+		executables = (
+			28B3504216ACEB41000DC739 /* Assignment1 */,
+		);
+	};
+	C6A0FF2C0290799A04C91782 /* Assignment1.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {546, 1050}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 924}";
+		};
+	};
+}

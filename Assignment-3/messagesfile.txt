@@ -1,0 +1,65 @@
+FROM: ayoussef
+DATE: 09-15-2012
+SUBJECT: Do your homework
+BODY:
+My advice to you is to start to do your programming assignment 1 today. -AY
+----------
+FROM: korman
+DATE: 09-16-2012
+SUBJECT: cs1132
+BODY:
+listen to your professor of cs1132, and follow his advice.
+You won't regret it.
+
+Good luck!
+Your Chairman
+----------
+FROM: ayoussef
+DATE: 09-21-2012
+SUBJECT: next phase of assignment 1
+BODY:
+I hope you are progressing well in your first programming assignment 
+in cs1132. By now, you should have come up with an overall design of 
+your program, determined what classes to use to model each message and to
+model the whole set of messages. Also, you should by now be done
+implementing the file-reading part of your program.
+
+Good luck!
+Your instructor
+----------
+FROM: yourethics
+DATE: 09-22-2012
+SUBJECT: academic honesty
+BODY:
+Hello there,
+We hope you are doing well in all your assignments.
+Remember to do your best while maintaining the highest moral conduct.
+You cannot cheat, you cannot download software from anywhere to
+do your programming assignments in cs1132, and you cannot ask anyone else
+to write a program or piece of code for you to include in your cs 1132
+programming assignments. If you have any question or need help, ask the
+instructor or the TAs; they are there to help you. They know how much to
+tell you without giving away the answers and denying you the opportunity
+to challenge yourself and learn.
+
+Good luck!
+Your ethics
+----------
+FROM: yourcs1132TAs
+DATE: 09-28-2012
+SUBJECT: 2nd phase of assignment 1
+BODY:
+By now, you should have completed the coding of the classes and the 
+main function, along with adequate documentation for you and your graders.
+You should now turn into testing your program against the sample data 
+that Professor Youssef provided to you on the course Web site, and do
+the necessary debugging and corrections. 
+
+Remember, your program must read two input files, called literally 
+messagesfile and queriesfile. These two files are assumed to be in the
+same folder (or directory) as your C++ program. Remember also that your
+program output goes to the standard output, using cout.
+
+Good luck!
+Your TAs
+----------
